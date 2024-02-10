@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there!
+
+This is my Academic account, intended for teaching purposes @ Instituto Balseiro.
 
 <!--
 **abernardo-ib/abernardo-ib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
